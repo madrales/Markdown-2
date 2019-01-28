@@ -5,4 +5,13 @@ Markdown for Challenge 2
 
 <https://reddit.com>
 
-![alt text] (https://missouri.edu/)
+```
+if 3 + 1 == 4:
+  print(True)
+ else:
+  print(False)
+```
+```python
+p = "Python syntax highlighting"
+print p
+```
