@@ -18,6 +18,7 @@ print p
 ~~Hello wodlr@~~
 **Hello World!**
 _sorry for the mistake!_
+![alt text](https://github.com/madrales/Markdown-2/blob/master/fid.jpg)
 ***
 
 Here is the link for the second markdown page
