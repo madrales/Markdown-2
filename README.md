@@ -20,3 +20,5 @@ print p
 _sorry for the mistake!_
 ***
 
+Here is the link for the second markdown page
+<https://github.com/madrales/Markdown-2/blob/master/Mason.md>
