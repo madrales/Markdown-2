@@ -27,7 +27,7 @@ Orange|Broccoli|Pork
 Banana|Cabbage|Fish
 ***
 
-![alt_text](https://www.freeimages.com/photo/hide-and-seek-1436876)
+![alt text](https://www.freeimages.com/photo/hide-and-seek-1436876)
 
 
 
