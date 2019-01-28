@@ -18,7 +18,13 @@ but if I had to order them,
 2. INFOTC 1610
 3. INFOTC 2001
 4. INFOTC 2040
+***
 
+Fruits|Vegtables|Meats
+---|---|---
+Apple|Carrot|Steak
+Orange|Broccoli|Pork
+Banana|Cabbage|Fish
 
 
 
