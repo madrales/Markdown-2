@@ -25,6 +25,9 @@ Fruits|Vegtables|Meats
 Apple|Carrot|Steak
 Orange|Broccoli|Pork
 Banana|Cabbage|Fish
+***
+
+![alt_text](https://www.freeimages.com/photo/hide-and-seek-1436876)
 
 
 
